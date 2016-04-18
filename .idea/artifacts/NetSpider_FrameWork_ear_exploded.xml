@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="NetSpider-FrameWork:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetSpider_FrameWork_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NetSpider-FrameWork/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="NetSpider-FrameWork:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
